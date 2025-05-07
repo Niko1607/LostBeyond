@@ -6,6 +6,9 @@ Este módulo contiene la música del videojuego, creada especialmente para ambie
 🎶 Se agregarán más pistas cuando termine de editar o crear nuevas composiciones.
 
 ## Archivos incluidos:
-- 'music.mp3.
+- music.mp3.
+- musica 2.mp3
+- musica 3.mp3
+- musica 4.mp3
 
 *(Mas Archivos seran añadidos pronto. TKM 😊)*
