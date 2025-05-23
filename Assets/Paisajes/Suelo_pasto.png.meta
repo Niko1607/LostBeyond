@@ -1,0 +1,745 @@
+fileFormatVersion: 2
+guid: 0a4a5ab60b4669c469c11cb67a95719f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9120489756587732000
+    second: Suelo_pasto_0
+  - first:
+      213: 5945690028780713370
+    second: Suelo_pasto_1
+  - first:
+      213: -3604046416394492682
+    second: Suelo_pasto_2
+  - first:
+      213: 7150388265702962638
+    second: Suelo_pasto_3
+  - first:
+      213: -3852893866749247440
+    second: Suelo_pasto_4
+  - first:
+      213: 1778291365520424197
+    second: Suelo_pasto_5
+  - first:
+      213: -5357829856001315133
+    second: Suelo_pasto_6
+  - first:
+      213: -1027071090028164024
+    second: Suelo_pasto_7
+  - first:
+      213: 1818359118282982023
+    second: Suelo_pasto_8
+  - first:
+      213: -645390867954825069
+    second: Suelo_pasto_9
+  - first:
+      213: 5867612700369824139
+    second: Suelo_pasto_10
+  - first:
+      213: -1119893393922802990
+    second: Suelo_pasto_11
+  - first:
+      213: -2341846266773689820
+    second: Suelo_pasto_12
+  - first:
+      213: 7547349738227854283
+    second: Suelo_pasto_13
+  - first:
+      213: -802543752766181481
+    second: Suelo_pasto_14
+  - first:
+      213: -4589156240292098121
+    second: Suelo_pasto_15
+  - first:
+      213: -5177899378316471579
+    second: Suelo_pasto_16
+  - first:
+      213: -626949087462587910
+    second: Suelo_pasto_17
+  - first:
+      213: -6425343797788469184
+    second: Suelo_pasto_18
+  - first:
+      213: 4329000092381185859
+    second: Suelo_pasto_19
+  - first:
+      213: -298078387055517329
+    second: Suelo_pasto_20
+  - first:
+      213: 5867925910480566353
+    second: Suelo_pasto_21
+  - first:
+      213: -5862516348846236145
+    second: Suelo_pasto_22
+  - first:
+      213: -6092187638286699578
+    second: Suelo_pasto_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Suelo_pasto_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 163
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a957e0e5495538250800000000000000
+      internalID: 5945690028780713370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f469cc11eadbfdc0800000000000000
+      internalID: -3604046416394492682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 163
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5b8574e384b3360800000000000000
+      internalID: 7150388265702962638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 163
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03041231175c78ac0800000000000000
+      internalID: -3852893866749247440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 163
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d3dfc3392cda810800000000000000
+      internalID: 1778291365520424197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 105
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce2f0a022a25a5b0800000000000000
+      internalID: -5357829856001315133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 105
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c4cc7094c1fb1f0800000000000000
+      internalID: -1027071090028164024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 105
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7828957ebfb1c3910800000000000000
+      internalID: 1818359118282982023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 105
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398854ecc6c1b07f0800000000000000
+      internalID: -645390867954825069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 105
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b892d1db9a2fd6150800000000000000
+      internalID: 5867612700369824139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 105
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dabce444e65570f0800000000000000
+      internalID: -1119893393922802990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 105
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a216e5a37108fd0800000000000000
+      internalID: -2341846266773689820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 105
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb65be69929db860800000000000000
+      internalID: 7547349738227854283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 105
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fa9ab75baccd4f0800000000000000
+      internalID: -802543752766181481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf4f9eb6ba0050c0800000000000000
+      internalID: -4589156240292098121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e21bb8f2f76428b0800000000000000
+      internalID: -5177899378316471579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1898d6021ac47f0800000000000000
+      internalID: -626949087462587910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0481f0ddbd794d6a0800000000000000
+      internalID: -6425343797788469184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3478303e5a2b31c30800000000000000
+      internalID: 4329000092381185859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61a55849430ddbf0800000000000000
+      internalID: -298078387055517329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1583186a68f0f6150800000000000000
+      internalID: 5867925910480566353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e9911117824aea0800000000000000
+      internalID: -5862516348846236145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_pasto_23
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c335eaee93347ba0800000000000000
+      internalID: -6092187638286699578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 45804189a94dcc246933b4b0147599ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Suelo_pasto_0: 9120489756587732000
+      Suelo_pasto_1: 5945690028780713370
+      Suelo_pasto_10: 5867612700369824139
+      Suelo_pasto_11: -1119893393922802990
+      Suelo_pasto_12: -2341846266773689820
+      Suelo_pasto_13: 7547349738227854283
+      Suelo_pasto_14: -802543752766181481
+      Suelo_pasto_15: -4589156240292098121
+      Suelo_pasto_16: -5177899378316471579
+      Suelo_pasto_17: -626949087462587910
+      Suelo_pasto_18: -6425343797788469184
+      Suelo_pasto_19: 4329000092381185859
+      Suelo_pasto_2: -3604046416394492682
+      Suelo_pasto_20: -298078387055517329
+      Suelo_pasto_21: 5867925910480566353
+      Suelo_pasto_22: -5862516348846236145
+      Suelo_pasto_23: -6092187638286699578
+      Suelo_pasto_3: 7150388265702962638
+      Suelo_pasto_4: -3852893866749247440
+      Suelo_pasto_5: 1778291365520424197
+      Suelo_pasto_6: -5357829856001315133
+      Suelo_pasto_7: -1027071090028164024
+      Suelo_pasto_8: 1818359118282982023
+      Suelo_pasto_9: -645390867954825069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

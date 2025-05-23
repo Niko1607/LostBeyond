@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Lost Beyond.sln"
+    "dotnet.defaultSolution": "LostBeyond.sln"
 }
